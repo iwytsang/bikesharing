@@ -29,3 +29,5 @@ The results show that most bike users are male.
 
 A recommended visualization would be to create a chart for Trips by Age by Gender.
 Another recommended visualization would be to create a chart with start station latitude/longitude and end station latitude/longitude and trip times.
+
+[link to dashboard](https://public.tableau.com/views/CitibikeAugust2019_16701848996120/CitiBikeAugust2019?:language=en-US&:display_count=n&:origin=viz_share_link)

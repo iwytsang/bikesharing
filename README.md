@@ -25,4 +25,7 @@ From the Gender Breakdown pie chart, we can see that over 50% of the bike users 
 
 ## Summary
 
-The
+The results show that most bike users are male.
+
+A recommended visualization would be to create a chart for Trips by Age by Gender.
+Another recommended visualization would be to create a chart with start station latitude/longitude and end station latitude/longitude and trip times.

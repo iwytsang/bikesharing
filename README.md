@@ -15,6 +15,7 @@ From the Trips by Weekday per Hour heatmap, we can see that the count of citibik
 From the Checkout Times for Users graph, we can see that the most people check out bikes for approximately 10 minutes, with over 140,000 checkouts.
 ![image](https://user-images.githubusercontent.com/108503112/208211580-4b325876-f0ab-4b3a-ad4b-88a21e7ec743.png)
 
-
+From the Trips by Gender by Weekday heatmap, we can see that the most people take out bikes on Thursdays.
+![image](https://user-images.githubusercontent.com/108503112/208212426-89e51eed-5887-440c-aeca-c36d44d1983c.png)
 
 ## Summary
